@@ -1,0 +1,19 @@
+.patientsReviews{
+    background-color: var(--fourth);
+}
+.patientsReviewsImg{
+    display: flex;
+    justify-content: center;
+}
+.patientsReviewsImg img{
+    width: 10rem;
+    height: 10rem;
+    box-shadow: 0px 0px 10px 1px var(--main);
+    border-radius: 50%;
+}
+.patientsReviewsText{
+    margin: .5rem 0;
+    font-family: 'Italianno', cursive;
+    font-size: 48px;
+    text-align: center;
+}

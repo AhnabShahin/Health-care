@@ -19,7 +19,7 @@ const GoodAt = () => {
                             <Col md={6}>
                                 <Row>
                                     <Col md={3}>
-                                        <FontAwesomeIcon className="goodAtIcon" icon={faPlusSquare} />
+                                    <FontAwesomeIcon className="goodAtIcon" icon={faPlusSquare} />
                                     </Col>
                                     <Col md={9}>
                                         <h3>Rehabilitation Center</h3>
