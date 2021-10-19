@@ -1,0 +1,51 @@
+.specialistSection{
+    background-color: var(--fourth);
+}
+
+/* card design  */
+
+.card{
+    height: 25rem;
+    padding: .5rem;
+    border: 1px solid var(--main);
+    overflow: hidden;
+}
+.card:hover{
+    box-shadow: 0px 0px 10px 1px var(--main);
+}
+.cardImg{
+    height: 15rem;
+    overflow: hidden;
+}
+.cardDetails{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    height: 100%;
+}
+.cardName{
+    margin: .5rem 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--third);
+}
+.cardName:hover{
+    color: var(--main);
+}
+.cardButton{
+    color: var(--white);
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: var(--main);
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    border:none;
+    box-shadow: 2px var(--darkGray);
+    position: absolute;
+    bottom: 0;
+}
+.cardButton:hover{
+    background-color: var(--second);
+}
+/* card design end  */

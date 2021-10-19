@@ -1,0 +1,34 @@
+.upNav{
+    height: 2rem;
+    background-color: var(--main);
+}
+.upNav p{
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    color: var(--white);
+}
+.upNav span{
+    font-weight: 700;
+    color: var(--white);
+}
+.nav{
+    position: sticky;
+}
+a,li{
+    text-decoration: none;
+    list-style:none;
+    color: var(--main);
+}
+.logo a{
+    font-size: 2rem;
+}
+.navigationLink a{
+    margin-left:1rem;
+    padding: .5rem;
+}
+.navigationLink a:hover, .active{
+    color: var(--white);
+    background-color: var(--main);
+    border-radius: 5px;
+}
