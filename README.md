@@ -1,10 +1,14 @@
 online- healthcare related website
-Added two extra sections
-5.task done
-6.detail route
-7.private/protected routes
-8.google , Email login  signup done
-Here is the link of deployment  [Check Live Demo]().
+
+### functionalists of it
+- explore Firebase
+- exploring useState
+- exploring useEffect
+- one directional data flow using props
+- data destructuring
+- onClick funtion handler and update state
+- google , Email login  signup done
+
 
 
 Repo: 

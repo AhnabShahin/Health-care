@@ -18,6 +18,9 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import Appointment from './Pages/Appointment/Appointment';
 
+import NotFound from './NotFound/NotFound';
+
+
 function App() {
   const [loadData, setLoadData] = useState({});
   useEffect(() => {
@@ -65,6 +68,10 @@ function App() {
           <PrivateRoute path="/appointment">
             <Appointment></Appointment>
           </PrivateRoute>
+          <Route>
+
+            <NotFound path="*"></NotFound>
+          </Route>
         </Switch>
         <Footer></Footer>
       </BrowserRouter>
