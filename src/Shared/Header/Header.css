@@ -32,3 +32,45 @@ a,li{
     background-color: var(--main);
     border-radius: 5px;
 }
+.barIcon{
+    display: none;
+}
+@media screen and (max-width: 992px) {
+    .resposiveNav{
+        display: flex;
+        flex-direction: column;
+    }
+  }
+@media screen and (max-width: 780px) {
+    .textOnBanner{
+        font-size: 16px;
+    }
+    .resposiveUpNav{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .resposiveUpNav p{
+        margin: auto;
+    }
+    .upNav{
+        height: 4rem;
+    }
+    .resposiveNav{
+        position: relative;
+    }
+    .navigationLink{
+        display: flex;
+        flex-direction: column;
+        justify-content: left;
+        position: absolute;
+        z-index: 5;
+        left: 0;
+        background-color: var(--white);
+    }
+    .barIcon{
+        font-size: 30px;
+        color: var(--main);
+        display: inline;
+    }
+  }

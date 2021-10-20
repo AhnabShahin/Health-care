@@ -1,0 +1,135 @@
+{
+    "doctors": [
+        {
+            "Id": "001",
+            "Name": "Prof. Dr. M. A. Basher",
+            "Phone": "+8801900000001",
+            "Img": "http://www.brbhospital.com/frontEnd/images/doctors/Prof.%20Dr.%20M.%20A%20Bashar.jpg",
+            "Degree": "MBBS (DMC), D-Card (Austria), MCPS (MED), FCPS (MED), FACC (USA), FRCP (Glasgow-UK)",
+            "Designation": "Senior Consultant",
+            "Department": "Medicine",
+            "WorkingDays": "Monday, Wednesday, Thursday",
+            "Bio": [
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                }
+            ]
+        },
+        {
+            "Id": "002",
+            "Name": "Prof. Dr. Md. Mofazzel Hossain",
+            "Phone": "+8801900000001",
+            "Img": "http://www.brbhospital.com/frontEnd/images/doctors/Prof.%20Dr.%20Mofazzel%20Hossain.jpg",
+            "Degree": "MBBS, FCPS (Med), FACP (USA), FRCP (Edin), FRCP (Glasgow)",
+            "Designation": "Senior Consultant",
+            "Department": "Medical Oncology",
+            "WorkingDays": "Monday, Wednesday, Thursday",
+            "Bio": [
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "Doctors, or GPs (general practitioners), provide primary and continuing medical care for patients. They diagnose physical and mental illnesses, disorders and injuries, and prescribe medications and treatment to promote or restore good health, taking account of physical, emotional and social factors."
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                }
+            ]
+        },
+        {
+            "Id": "003",
+            "Name": "Prof. Dr. Mohammad Ali",
+            "Phone": "+8801900000001",
+            "Img": "http://www.brbhospital.com/frontEnd/images/doctors/Prof%20Mohammad%20Ali.jpg",
+            "Degree": "MBBS, FCPS, FRCS (Ed), FACS",
+            "Designation": "Chief Consultant",
+            "Department": "Hepatobiliary & Pancreatic Surgery",
+            "WorkingDays": "Monday, Wednesday, Thursday",
+            "Bio": [
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "Medical services means medical and health care services provided to a Person, including, but not limited to, medical and health care services provided to a Person which are covered by a policy of insurance, and includes, without limitation, physician services, nurse and therapist services, dental services, hospital"
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                }
+            ]
+        },
+        {
+            "Id": "004",
+            "Name": "Prof. Dr. Md. Nizamuddin Chowdhury",
+            "Phone": "+8801900000001",
+            "Img": "http://www.brbhospital.com/frontEnd/images/doctors/Prof.%20Dr.%20M.%20A%20Bashar.jpg",
+            "Degree": "MBBS,MD (Nephrology), FRCP (Glasgow), FASN, Fello-ISN (Canada), MCPS (Medicine)",
+            "Designation": "Senior Consultant & Head Dept.",
+            "Department": "Nephrology",
+            "WorkingDays": "Monday, Wednesday, Thursday",
+            "Bio": [
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "A doctor is someone who is experienced and certified to practice medicine to help maintain or restore physical and mental health. A doctor is tasked with interacting with patients, diagnosing medical problems and successfully treating illness or injury"
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                },
+                {
+                    "HospitalName": "Royal Prince Alfred Hospital – Sydney",
+                    "Time": "June 2009 to July 2010",
+                    "Details": "RPA is governed by SLHD and is located in the centre and inner west of Sydney. SLHD comprises the local government areas of the City of Sydney (part), Leichhardt, Marrickville, Canterbury, Canada Bay, Ashfield, Burwood and Strathfield. SLHD is responsible for providing care to more than 530,000 people."
+                }
+            ]
+        }
+    ],
+    "Blogs": [
+        {
+            "Title": "Medicare",
+            "PostBy":"Asad",
+            "Time": "16 May, 2019",
+            "Discription": "This text represents a brief introduction of doctor and this text will be displayed on homepage and all the places where multiple doctors are listed.",
+            "Img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhv8xQcTz2ptNKoDC4wYFMUfbtekiCYzhRaw&usqp=CAU"
+        },
+        {
+            "Title": "Healthcare",
+            "PostBy":"Hamid",
+            "Time": "16 May, 2018",
+            "Discription": "This text represents a brief introduction of doctor and this text will be displayed on homepage and all the places where multiple doctors are listed.",
+            "Img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFCwI9R5-9JaB-77h4LNhpGXkn-0gQWSdLw&usqp=CAU"
+        },
+        {
+            "Title": "Sergury",
+            "PostBy":"Mofiz",
+            "Time": "16 May, 2021",
+            "Discription": "This text represents a brief introduction of doctor and this text will be displayed on homepage and all the places where multiple doctors are listed.",
+            "Img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6rqHS9cNoOEOFWcF7U7HlI_nxatdx2jTGGA&usqp=CAU"
+        }
+    ]
+}

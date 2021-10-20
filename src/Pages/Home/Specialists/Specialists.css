@@ -34,7 +34,6 @@
     color: var(--main);
 }
 .cardButton{
-    color: var(--white);
     font-size: 1rem;
     font-weight: 600;
     background-color: var(--main);
@@ -44,6 +43,9 @@
     box-shadow: 2px var(--darkGray);
     position: absolute;
     bottom: 0;
+}
+.cardButton a{
+    color: var(--white);
 }
 .cardButton:hover{
     background-color: var(--second);

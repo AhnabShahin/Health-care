@@ -15,3 +15,11 @@
     color: var(--second);
     
 }
+@media screen and (max-width: 780px) {
+    .textOnBanner{
+        font-size: 26px;
+    }
+    .banner{
+        display: none;
+    }
+}

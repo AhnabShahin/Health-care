@@ -1,0 +1,17 @@
+ .doctorDetailsSection{
+     background-color: var(--fourth);
+     padding: 2rem 0;
+ }
+ .doctorDetailsCard,.doctorDetails{
+     padding: 1rem;
+     background-color: var(--white);
+ }
+ .doctorDetailsImg{
+     width: 100%; 
+ }
+ .doctorDetails h2{
+    margin:1rem 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--third);
+}
